@@ -28,11 +28,11 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sushantp432&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantp432&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SushantPagare&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=SushantPagare&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantp432&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantPagare&layout=compact&theme=github_dark"/>|
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=sushantp432" alt="sushantp432" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=SushantPagare" alt="sushantp432" /></a> </p>
 <br>
 
 <hr/>
